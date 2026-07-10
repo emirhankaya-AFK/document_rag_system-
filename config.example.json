@@ -1,0 +1,7 @@
+{
+  "gemini_api_key": "YOUR_GEMINI_API_KEY",
+  "documents_dir": "docs",
+  "chunk_size": 500,
+  "chunk_overlap": 100,
+  "top_k": 3
+}
